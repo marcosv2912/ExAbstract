@@ -36,12 +36,16 @@ namespace ExAbstract
                 }
                 Console.WriteLine();
             }
-
+            double Total = 0;
             Console.WriteLine("TAXES PAID:");
             foreach (TaxPayer taxPayer in list)
             {
                 Console.WriteLine(taxPayer.Name + ": $" + taxPayer.Tax().ToString("F2", CultureInfo.InvariantCulture));
+                Total += taxPayer.Tax();
             }
+            Console.WriteLine();
+            Console.WriteLine("TOTAL TAXES: $" + Total);
         }
     }
 }
+
