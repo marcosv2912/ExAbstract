@@ -1,0 +1,11 @@
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\bin\Debug\netcoreapp3.0\ExAbstract.exe
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\bin\Debug\netcoreapp3.0\ExAbstract.deps.json
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\bin\Debug\netcoreapp3.0\ExAbstract.runtimeconfig.json
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\bin\Debug\netcoreapp3.0\ExAbstract.runtimeconfig.dev.json
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\bin\Debug\netcoreapp3.0\ExAbstract.dll
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\bin\Debug\netcoreapp3.0\ExAbstract.pdb
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\obj\Debug\netcoreapp3.0\ExAbstract.csprojAssemblyReference.cache
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\obj\Debug\netcoreapp3.0\ExAbstract.AssemblyInfoInputs.cache
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\obj\Debug\netcoreapp3.0\ExAbstract.AssemblyInfo.cs
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\obj\Debug\netcoreapp3.0\ExAbstract.dll
+C:\Users\marcos.paixao\source\repos\ExAbstract\ExAbstract\obj\Debug\netcoreapp3.0\ExAbstract.pdb
